@@ -35,4 +35,3 @@ let candles = getNumber(100001,100);
 let finalAge = ololo(candles, 15);
 console.log(candles + " свечек хватило на " + finalAge + " лет");
 console.timeEnd("candles");
-
